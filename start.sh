@@ -1,12 +1,12 @@
-python bot.py +[phone1] doge
-python bot.py +[phone1] zec
-python bot.py +[phone1] ltc
-python bot.py +[phone1] btc
-python bot.py +[phone1] bch
+python bot.py +[21622350246] doge
+python bot.py +[21622350246] zec
+python bot.py +[21622350246] ltc
+python bot.py +[21622350246] btc
+python bot.py +[21622350246] bch
 clear
 pwd
 bash start.sh
 
 #Replace [phone] with your Number Phone
 #ext 
-   python bot.py +62xxxx doge
+   python bot.py +21622350246 doge
